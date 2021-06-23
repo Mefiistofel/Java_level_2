@@ -1,5 +1,7 @@
 package lesson_1;
 
+// Кот
+
 public class Cat implements Actions {
     private String name;
     private int runDistance;

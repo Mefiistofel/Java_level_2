@@ -1,5 +1,7 @@
 package lesson_1;
 
+// Действия
+
 public interface Actions {
     void run();
 
@@ -8,4 +10,5 @@ public interface Actions {
     int getRunDistance();
 
     int getJumpHeight();
+
 }
