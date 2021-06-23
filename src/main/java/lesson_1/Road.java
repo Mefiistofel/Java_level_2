@@ -1,5 +1,7 @@
 package lesson_1;
 
+// Дорога
+
 public class Road extends Barrier {
 
     private int length;

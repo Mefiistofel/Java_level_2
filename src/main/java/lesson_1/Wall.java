@@ -1,5 +1,7 @@
 package lesson_1;
 
+// Преграда
+
 public class Wall extends Barrier {
 
     private int height;
@@ -21,11 +23,11 @@ public class Wall extends Barrier {
         actions.jump();
 
         if (getHeight() <= actions.getJumpHeight()) {
-            System.out.println("Успешно!");
+            System.out.println("Успешно.");
 
             return true;
         } else {
-            System.out.println("Неуспешно!");
+            System.out.println("Неуспешно.");
 
             return false;
         }

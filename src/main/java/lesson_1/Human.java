@@ -1,5 +1,7 @@
 package lesson_1;
 
+// Человек
+
 public class Human implements Actions {
     private String name;
     private int runDistance;

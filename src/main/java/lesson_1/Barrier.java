@@ -1,5 +1,7 @@
 package lesson_1;
 
+// Барьер
+
 public abstract class Barrier {
     private String name;
 

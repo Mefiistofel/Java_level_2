@@ -45,7 +45,7 @@ public class Main {
             if (result) {
                 System.out.println("ПОБЕДА!!!");
             } else {
-                System.out.println("ПРОВАЛ!!!");
+                System.out.println("ПРОВАЛ!");
             }
         }
     }
